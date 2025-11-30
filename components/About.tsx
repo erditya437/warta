@@ -36,11 +36,7 @@ export const About: React.FC = () => {
                 <section className="mb-10 text-center">
                     <div className="flex justify-center mb-6">
                         <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg">
-                            <img 
-                                src={"public/download (1).jpg"} 
-                                alt="Foto Profile Developer" 
-                                className="w-full h-full object-cover" 
-                            />
+                           <img src="/download (1).jpg" alt="Foto Profile Developer" className="w-full h-full object-cover" />
                         </div>
                     </div>
                     {/* DIUBAH: text-2xl menjadi text-xl sm:text-2xl */}
